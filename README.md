@@ -1,4 +1,4 @@
-![Banner](/src/assets/banner.png)
+![Banner](/public/banner.png)
 
 <br/>
 
@@ -28,7 +28,7 @@ The following tools were used in building the project:
 <br/>
 
 <p align="center">
-  🤖 Project Status 🚀 Complete! 🤖
+  🤖 Project Status 🚀 Construction... 🤖
 </p>
 <br/>
 
@@ -49,11 +49,15 @@ Features
 =================
 <br/>
 
-- ✅ Json Server API queries with Axios;
-- ✅ List all foods;
-- ✅ Edit a food;
-- ✅ Create a new food;
-- ✅ Field validation with Yup.
+- ✅ Json Server API queries with fetch;
+- ✅ List all products;
+- ✅ Search products by a query using search input;
+- ✅ Format data before component is rendered;
+- ✅ Functions using hooks useCallback;
+- ✅ Dynamic Imports for laze loading;
+- ✅ Use Bundle Analyzer for understand critical points of application for deploy;
+- ✅ Break render of component with useMemo;
+- ✅ Use memo for specific components for break the Shallow Compare.
 
 <br/>
 
@@ -87,15 +91,7 @@ How to Install
 Screen Shots
 =================
 
-- Home
-
-![ScreenShot](/src/assets/home.png)
-
-<br/>
-
-- Add Food
-
-![ScreenShot](/src/assets/add.png)
+- under construction...
 
 <br/>
 
